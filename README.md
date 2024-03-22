@@ -1,6 +1,4 @@
 # LLM-PE_ in Legal terms and Conditions Contracts
-Annotation and Classification of Relevant Clauses in 
-Terms-and-Conditions Contracts
 
 This repository contains a corpus of annotated contract clauses, specifically terms and conditions, which can be utilised for fine-tuning language models (LLMs) and testing prompt engineering approaches. The corpus has been accepted for presentation at the LREC COLING Conference 2024.
 
